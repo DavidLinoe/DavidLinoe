@@ -9,14 +9,14 @@ Interested in IoT, automation, 3D projects and design
 ## About Me  
 <ul>
   <li>Web developer based in Brazil</li>
-  <li>Fluent in Portuguese and intermediate English</li>
+  <li>Fluent in Portuguese, intermediate English</li>
   <li>Maker: soldering, prototyping, 3D printing and electronics</li>
 </ul>
 
 ---
 
 ## Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py,java&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py&theme=light&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -27,7 +27,7 @@ Interested in IoT, automation, 3D projects and design
 
 ## GitHub Stats  
 ![David Lino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidLinoe&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLinoe&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLinoe&layout=compact&theme=radical)
 
 ---
 
@@ -47,13 +47,11 @@ Interested in IoT, automation, 3D projects and design
 
 ---
 
-## 🐍 GitHub Snake
-<img src="dist/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-<!-- Optional dark mode -->
-<img src="dist/github-snake-dark.svg" alt="GitHub Snake Dark" width="100%"/>
-<!-- Optional animated version -->
-<img src="dist/ocean.gif" alt="GitHub Snake GIF" width="100%"/>
+## GitHub Snake  
+![GitHub Snake](dist/github-snake.svg)
+![GitHub Snake Dark](dist/github-snake-dark.svg)
+![GitHub Snake GIF](dist/ocean.gif)
 
 ---
 
-<p align="center"><sub>by <b>David Lino</b></sub></p>
+<p align="center"><sub>Created with ❤️ by <b>David Lino</b></sub></p>
