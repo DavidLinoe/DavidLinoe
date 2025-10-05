@@ -16,7 +16,7 @@ Interested in IoT, automation, 3D projects and design
 ---
 
 ## Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py,java&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py&theme=light&perline=6)](https://skillicons.dev)
 
 ---
 
