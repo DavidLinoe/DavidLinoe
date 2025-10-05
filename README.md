@@ -33,7 +33,7 @@
 ## 📫 Contato e Redes
 
 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Portfolio / Site pessoal](https://david-lino.vercel.app)  
-✉️ falecom@unimar.br  
+
 
 ---
 
