@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou David Lino
 
-<!--
-**DavidLinoe/DavidLinoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na **Unimar, Marília-SP**  
+💻 Desenvolvedor Fullstack | Maker Enthusiast | Educador em Robótica  
+🎯 Entusiasta de IoT, automação, projetos 3D e design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias & Ferramentas
+
+- **Linguagens**: C++, JavaScript, TypeScript, Python  
+- **Front-end / Frameworks**: Angular, Electron, HTML, CSS  
+- **Back-end / Infra**: Node.js  
+- **Design / 3D / Maker**: Fusion 360, Shapr3D, Cura, EasyEDA  
+- **Habilidades manuais**: soldagem, prototipagem, montagem  
+
+---
+
+## 📊 GitHub Stats
+
+![David Lino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidLino&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Projetos em destaque
+
+- **Projeto Maker / IoT** – automações, sensores e circuitos  
+- **Dashboard / SPA com Angular + Tailwind**  
+- **Robótica Educacional** – kits para ensino de programação e eletrônica  
+
+---
+
+## 📫 Contato e Redes
+
+[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Portfolio / Site pessoal](https://david-lino.vercel.app)  
+✉️ falecom@unimar.br  
+
+---
+
+<p><sub>Feito com ❤️ por David Lino</sub></p>
