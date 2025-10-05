@@ -41,11 +41,10 @@ Interested in IoT, automation, 3D projects and design
 
 ## Social Media  
 <div>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/seuuser" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%2300A8E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/david-lino-21a4542b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:davideduardolino@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
-<p align="center"><sub>Made with ❤️ by <b>David Lino</b></sub></p>
+<p align="center"><sub> by <b>David Lino</b></sub></p>
