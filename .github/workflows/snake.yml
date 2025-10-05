@@ -3,11 +3,11 @@ name: GitHub Snake
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main  # Mude para sua branch principal se não for 'main'
+  workflow_dispatch:  # Permite rodar manualmente pelo Actions
 
 jobs:
-  snake:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -22,10 +22,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Commit generated snake
+      - name: Commit and Push Snake
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/
+          git add dist/*
           git commit -m "Update GitHub Snake" || echo "No changes to commit"
           git push
