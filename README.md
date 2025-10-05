@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats
 
-![David Lino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidLino&show_icons=true&theme=radical)
+![David Lino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidLinoe&show_icons=true&theme=radical)
 
 ---
 
