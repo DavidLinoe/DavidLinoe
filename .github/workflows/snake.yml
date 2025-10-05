@@ -3,8 +3,8 @@ name: GitHub Snake
 on:
   push:
     branches:
-      - main  # Mude para sua branch principal se não for 'main'
-  workflow_dispatch:  # Permite rodar manualmente pelo Actions
+      - main
+  workflow_dispatch:
 
 jobs:
   generate-snake:
@@ -23,9 +23,12 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit and Push Snake
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository_owner }}/$GITHUB_REPOSITORY.git
           git add dist/*
           git commit -m "Update GitHub Snake" || echo "No changes to commit"
           git push
