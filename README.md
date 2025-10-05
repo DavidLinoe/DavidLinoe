@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou David Lino
+# 👋 David Lino
 
 🎓 Estudante de Ciência da Computação na **Unimar, Marília-SP**  
 💻 Desenvolvedor Fullstack | Maker Enthusiast | Educador em Robótica  
@@ -9,8 +9,8 @@
 ## 🛠 Tecnologias & Ferramentas
 
 - **Linguagens**: C++, JavaScript, TypeScript, Python  
-- **Front-end / Frameworks**: Angular, Electron, HTML, CSS  
-- **Back-end / Infra**: Node.js  
+- **Front-end / Frameworks**: Angular, Electron, Ionic, HTML, CSS  
+- **Back-end / Infra**: Node.js, NestJs 
 - **Design / 3D / Maker**: Fusion 360, Shapr3D, Cura, EasyEDA  
 - **Habilidades manuais**: soldagem, prototipagem, montagem  
 
