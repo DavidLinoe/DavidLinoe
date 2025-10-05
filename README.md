@@ -21,7 +21,7 @@ Interested in IoT, automation, 3D projects and design
 ---
 
 ## Tools & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=angular,ionic,electron,nestjs,nodejs,tailwind,figma,vercel,linux,windows,postgres,mysql,mongodb,supabase,arduino,raspberrypi,docker,git,postman,ps,rabbitmq,ai&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,electron,nestjs,nodejs,tailwind,figma,vercel,linux,windows,postgres,mysql,mongodb,supabase,arduino,raspberrypi,docker,git,postman,ps,rabbitmq,ai&theme=light&perline=6)](https://skillicons.dev)
 
 ---
 
