@@ -9,7 +9,7 @@ Interested in IoT, automation, 3D projects and design
 ## About Me  
 <ul>
   <li>Web developer based in Brazil</li>
-  <li>Fluent in Portuguese and English, learning French</li>
+  <li>Fluent in Portuguese and  intermediate English</li>
   <li>Maker: soldering, prototyping, 3D printing and electronics</li>
 </ul>
 
