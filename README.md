@@ -17,12 +17,12 @@
 ---
 
 ## 💻 Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py,java&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py,java&theme=light&perline=6)](https://skillicons.dev)
 
 ---
 
 ## ⚒️ Tools & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=angular,ionic,electron,nestjs,tailwind,figma,vercel,linux,windows,postgres,mysql,postman&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ionic,electron,nestjs,nodejs,tailwind,figma,vercel,linux,windows,postgres,mysql,mongodb,supabase,arduino,raspberrypi,docker,git,postman,ps,rabbitmq,ai&theme=light&perline=6)](https://skillicons.dev)
 
 ---
 
