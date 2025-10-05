@@ -9,21 +9,20 @@
 ## 👀 About Me  
 <ul>
   <li>Web developer based in Brazil 🇧🇷</li>
-  <li>Ênfase em Frontend, mas também curto Backend</li>
+  <li>Ênfase em Frontend, mas também atuo em Backend</li>
   <li>Fluente em português, proficiência em inglês 🇬🇧 e aprendendo francês 🇫🇷</li>
-  <li>Interesse em programação de baixo nível e sistemas embarcados ⚙️</li>
   <li>Maker: soldagem, prototipagem, impressão 3D e eletrônica</li>
 </ul>
 
 ---
 
 ## 💻 Languages  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py,java,php,c&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,py,java&theme=light&perline=5)](https://skillicons.dev)
 
 ---
 
 ## ⚒️ Tools & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=angular,ionic,electron,nestjs,svelte,tailwind,scss,figma,vercel,linux,windows,postgres,mysql,postman,neovim&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ionic,electron,nestjs,tailwind,figma,vercel,linux,windows,postgres,mysql,postman&theme=light&perline=5)](https://skillicons.dev)
 
 ---
 
@@ -35,7 +34,7 @@
 
 ## 🏆 Projetos em Destaque  
 - 🚦 **Semáforo Inteligente com Visão Computacional (Python + YOLO)**  
-- 📡 **Projeto Maker / IoT** – automações, sensores e circuitos  
+- 📡 **Projetos Maker / IoT** – automações, sensores e circuitos  
 - 🖥 **Dashboard SPA (Angular + Tailwind)**  
 - 🤖 **Robótica Educacional** – kits para ensino de programação e eletrônica  
 
