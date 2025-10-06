@@ -47,11 +47,5 @@ Interested in IoT, automation, 3D projects and design
 
 ---
 
-## GitHub Snake  
-![GitHub Snake](dist/github-snake.svg)
-![GitHub Snake Dark](dist/github-snake-dark.svg)
-![GitHub Snake GIF](dist/ocean.gif)
-
----
 
 <p align="center"><sub>Created with ❤️ by <b>David Lino</b></sub></p>
