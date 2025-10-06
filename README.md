@@ -48,4 +48,4 @@ Interested in IoT, automation, 3D projects and design
 ---
 
 
-<p align="center"><sub>Created with ❤️ by <b>David Lino</b></sub></p>
+<p align="center"><sub> by <b>David Lino</b></sub></p>
