@@ -25,12 +25,6 @@ Interested in IoT, automation, 3D projects and design
 
 ---
 
-## GitHub Stats  
-![David Lino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidLinoe&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLinoe&layout=compact&theme=radical)
-
----
-
 ## Featured Projects  
 - Intelligent Traffic Light with Computer Vision (Python + YOLO)  
 - Maker / IoT Projects – automations, sensors and circuits  
