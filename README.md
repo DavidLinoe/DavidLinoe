@@ -4,6 +4,7 @@ Computer Science student at **Unimar, Marília-SP**
 Fullstack Developer | Maker Enthusiast | Robotics Educator  
 Interested in IoT, automation, 3D projects and design  
 
+see my stats on @cucafresca-david
 ---
 
 ## About Me  
