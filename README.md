@@ -1,7 +1,7 @@
 # Hello, I'm David Lino
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlinoe)
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davideduardolino@outlook.com)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=&logoColor=white)](mailto:davideduardolino@outlook.com)
 [![Website](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=angular&logoColor=white)](https://davideduardolino.com)
 
 **Computer Science student at Unimar, Marília-SP**  
@@ -35,7 +35,7 @@ I'm a 20-year-old Brazilian developer who started with robotics at age 13 and ne
 **Cloud & DevOps:** AWS, Docker, Git, Vercel ,CI/CD
 **Hardware & IoT:** Arduino, Raspberry Pi, ESP32  
 **Architectures I practice:** Hexagonal Architecture, Domain-Driven Design (DDD), Clean Architecture, SOLID  
-**Other Tools:** Figma,,Redis, RabbitMQ, Postman, Photoshop, Adobe Illustrator
+**Other Tools:** Figma,Redis, RabbitMQ, Postman, Photoshop, Adobe Illustrator
 
 ![Skills](https://skillicons.dev/icons?i=angular,electron,nestjs,nodejs,tailwind,figma,vercel,linux,windows,postgres,mysql,mongodb,supabase,arduino,raspberrypi,docker,git,postman,ps,rabbitmq,ai&theme=light&perline=8)
 
