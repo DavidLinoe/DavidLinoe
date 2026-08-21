@@ -8,6 +8,7 @@
 **Fullstack Developer | Maker Enthusiast | Robotics Educator**  
 *Passionate about IoT, automation, 3D projects, and Clean Architecture.*
 
+ See my detailed stats on [@David-Lino](https://github.com/David-Lino)
  See my detailed stats on [@cucafresca-david](https://github.com/cucafresca-david)
 
 ---
