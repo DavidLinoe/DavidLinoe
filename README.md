@@ -14,7 +14,7 @@
 ---
 
 ## About Me
-I'm a 20-year-old Brazilian developer who started with robotics at age 13 and never stopped. Today, I build scalable web applications and love understanding how everything connects – from the backend logic to the physical hardware.
+I'm a 21-year-old Brazilian developer who started with robotics at age 13 and never stopped. Today, I build scalable web applications and love understanding how everything connects – from the backend logic to the physical hardware.
 
 -   **Location:** Marília, SP, Brazil
 -   **Languages:** Portuguese (Native), English (Intermediate)
